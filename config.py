@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-admin = 678887052
+admin = 1768747821
 
 bot_name = "DivineGarant_bot"
 
